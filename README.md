@@ -1,2 +1,11 @@
-# new-tab
-This is a new tab all in one thing
+### Ideas
+Local Extension?
+Hosted site:
+
+- Bdays?
+- Who'sWho?
+- Links
+- Have principles over there
+- Calendar
+- Notifications
+- Logged-in @company check
